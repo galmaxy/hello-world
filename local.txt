@@ -2,3 +2,4 @@ The first file created from local.
 How can i upload to GitHub?
 I still don't know how i uploaded the file to GitHub.
 I just delete the remote, then add it again, then follow the same step, and succeed.
+Now i connecting from office, and i'm ready to update the file.

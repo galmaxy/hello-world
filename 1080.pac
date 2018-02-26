@@ -17,6 +17,10 @@ var WhiteListHost = {
     "qq.com": true,
     "sina.com": true,
     "baidu.com": true,
+    "163.com": true,
+    "ctrip.com": true,   
+    "jd.com": true,
+    "taobao.com": true,
     "ssports.com": true,
     "weibo.com": true,
     "tv.byr.cn": true,
@@ -24,6 +28,7 @@ var WhiteListHost = {
     "vagrant.yunyin.org": true,
     "local.yunyin.org": true,
     "ieeexplore.ieee.org": true,
+    "proewildfire.cn": true,
     "f.wanfangdata.com.cn": true
 };
 function FindProxyForURL(url, host) {
